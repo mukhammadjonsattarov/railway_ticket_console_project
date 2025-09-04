@@ -34,7 +34,7 @@ public class Main {
         DataBase.user = loggedInUser;
         int choice;
         do {
-            System.out.println("\n===  Poyezd Bilet Sotish Tizimi ===");
+            System.out.println("\n====  Poyezd Bilet Sotish Tizimi ====");
             System.out.println("1. Reyslar ro‘yxatini ko‘rish");
             System.out.println("2. Bilet band qilish");
             System.out.println("3. Biletlarni ko‘rish");
